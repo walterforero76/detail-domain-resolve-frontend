@@ -1,4 +1,4 @@
-# detail-domain-resolve
+# Detail Domain Resolve - Frontend
 
 ## Project setup
 ```
